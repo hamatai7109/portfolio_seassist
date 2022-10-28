@@ -117,6 +117,10 @@ header li a:hover{
     border-bottom: 1px solid gray;
 }
 
+.portfolio p{
+    text-align: center;
+}
+
 
 .portfolio-container{
     display: flex;
