@@ -113,6 +113,10 @@ header li a:hover{
     align-items: center;
 }
 
+.portfolio h2{
+    border-bottom: 1px solid gray;
+}
+
 
 .portfolio-container{
     display: flex;
